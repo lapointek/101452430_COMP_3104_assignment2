@@ -1,1 +1,3 @@
-echo "Kevin Lapointe\n101452430\nGit repository created from AWS EC2 instance" > hello.txt
+Kevin Lapointe
+101452430
+Git repository created from AWS EC2 instance
