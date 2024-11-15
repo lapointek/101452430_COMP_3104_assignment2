@@ -1,0 +1,1 @@
+echo "Kevin Lapointe\n101452430\nGit repository created from AWS EC2 instance" > hello.txt
